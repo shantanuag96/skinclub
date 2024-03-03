@@ -7,9 +7,7 @@ function App() {
       <InvoiceList />
     </div>
 
-// <Routes>
-// <Route path="/" element={<InvoiceList />} />
-// </Routes>
+
   );
 }
 

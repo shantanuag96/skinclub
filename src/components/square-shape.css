@@ -7,22 +7,16 @@
 }
 .overview {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 73px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame {
@@ -31,31 +25,21 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  padding: 0 var(--padding-sm) var(--padding-6xs);
-=======
   padding: 0px var(--padding-sm) var(--padding-6xs);
 
->>>>>>> Incoming
 }
 .profile {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 49px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame1 {
@@ -68,22 +52,16 @@
 }
 .appointments {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 110px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame2 {
@@ -96,22 +74,16 @@
 }
 .history {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 55px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame3 {
@@ -120,16 +92,9 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  padding: 0 var(--padding-sm);
-=======
   padding: 0px var(--padding-sm);
 
->>>>>>> Incoming
 }
-<<<<<<< HEAD
-.videos,
-=======
 .videos {
   margin: 0;
   width: 41px;
@@ -143,42 +108,29 @@
   z-index: 1;
 }
 
->>>>>>> Incoming
 .videos-library {
   margin: 0;
-<<<<<<< HEAD
-=======
   width: 84px;
   height: 21px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame4,
 .videos-parent {
   display: flex;
-<<<<<<< HEAD
-=======
   flex-direction: column;
 
->>>>>>> Incoming
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-=======
   gap: var(--gap-sm);
 
->>>>>>> Incoming
 }
 .videos-parent {
   flex-direction: column;
@@ -186,79 +138,44 @@
 }
 .rectangle-frame4 {
   width: 188px;
-<<<<<<< HEAD
-=======
   display: flex;
 
->>>>>>> Incoming
   flex-direction: row;
-<<<<<<< HEAD
-  padding: 0 var(--padding-xl) var(--padding-4xs);
-=======
   align-items: flex-start;
   justify-content: flex-start;
   padding: 0px var(--padding-xl) var(--padding-4xs);
 
->>>>>>> Incoming
   box-sizing: border-box;
   font-size: var(--font-size-sm);
 }
-<<<<<<< HEAD
-.messages {
-=======
 .support {
 
->>>>>>> Incoming
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 62px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
-<<<<<<< HEAD
-.rectangle-frame5 {
-  align-self: stretch;
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: flex-start;
-  padding: 0 var(--padding-sm) var(--padding-6xs);
-}
-.support {
-=======
 .faqs {
 
->>>>>>> Incoming
   margin: 0;
-<<<<<<< HEAD
-=======
   width: 34px;
   height: 21px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame6 {
@@ -272,67 +189,41 @@
 .faqs,
 .procedure-information {
   margin: 0;
-<<<<<<< HEAD
-=======
   width: 133px;
   height: 21px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .faqs-parent,
 .rectangle-frame7 {
   display: flex;
-<<<<<<< HEAD
-=======
   flex-direction: row;
 
->>>>>>> Incoming
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-}
-.faqs-parent {
-  flex-direction: column;
-  gap: 14px 0;
-}
-.rectangle-frame7 {
-  flex-direction: row;
-  padding: 0 var(--padding-16xl) var(--padding-4xs) var(--padding-xl);
-=======
   padding: 0px var(--padding-16xl) var(--padding-4xs) var(--padding-xl);
 
->>>>>>> Incoming
   font-size: var(--font-size-sm);
 }
 .aftercare {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 69px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .rectangle-frame8 {
@@ -346,26 +237,18 @@
 .health-skin,
 .quizzes {
   margin: 0;
-<<<<<<< HEAD
-=======
   width: 48px;
   height: 21px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
-<<<<<<< HEAD
-=======
 .health-skin {
   margin: 0;
   width: 148px;
@@ -379,40 +262,28 @@
   z-index: 1;
 }
 
->>>>>>> Incoming
 .rectangle-frame9 {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  padding: 0 var(--padding-xl) var(--padding-4xs);
-  gap: 14px 0;
-=======
   padding: 0px var(--padding-xl) var(--padding-4xs);
   gap: var(--gap-sm);
 
->>>>>>> Incoming
   font-size: var(--font-size-sm);
 }
 .finances {
   margin: 0;
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 67px;
 
->>>>>>> Incoming
   position: relative;
   font-size: inherit;
   line-height: 21px;
   font-weight: 400;
   font-family: inherit;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 1;
 }
 .line {
@@ -420,12 +291,8 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
-<<<<<<< HEAD
-  padding: 0 var(--padding-sm);
-=======
   padding: 0px var(--padding-sm);
 
->>>>>>> Incoming
 }
 .frame-child14 {
   height: 48px;
@@ -436,23 +303,17 @@
   display: none;
 }
 .virtual-consultation {
-<<<<<<< HEAD
-=======
   height: 21px;
   width: 150px;
 
->>>>>>> Incoming
   position: relative;
   font-size: var(--font-size-lg);
   line-height: 21px;
   font-family: var(--font-cabin);
   color: var(--color-dimgray-100);
   text-align: left;
-<<<<<<< HEAD
-=======
   display: inline-block;
 
->>>>>>> Incoming
   z-index: 2;
 }
 .frame-button,
@@ -463,28 +324,18 @@
 }
 .frame-button {
   cursor: pointer;
-<<<<<<< HEAD
-  border: 0;
-=======
   border: none;
 
->>>>>>> Incoming
   padding: var(--padding-sm) var(--padding-29xl) var(--padding-smi)
     var(--padding-sm);
   background-color: var(--color-floralwhite);
   border-radius: var(--br-sm);
-<<<<<<< HEAD
-=======
   display: flex;
 
->>>>>>> Incoming
   flex-direction: row;
   align-items: center;
-<<<<<<< HEAD
-=======
   justify-content: flex-start;
 
->>>>>>> Incoming
   white-space: nowrap;
   z-index: 1;
 }
@@ -493,54 +344,34 @@
 }
 .square-shape,
 .text {
-<<<<<<< HEAD
-=======
   display: flex;
 
->>>>>>> Incoming
   flex-direction: column;
   align-items: flex-start;
-<<<<<<< HEAD
-  gap: 21px 0;
-=======
   justify-content: flex-start;
   gap: var(--gap-2xl);
 
->>>>>>> Incoming
 }
 .square-shape {
   width: 240px;
   background-color: var(--color-white);
-<<<<<<< HEAD
-=======
   display: flex;
   flex-direction: column;
 
->>>>>>> Incoming
   align-items: center;
-<<<<<<< HEAD
-=======
   justify-content: flex-start;
 
->>>>>>> Incoming
   padding: var(--padding-28xl) var(--padding-sm) var(--padding-138xl);
   box-sizing: border-box;
-<<<<<<< HEAD
-  gap: 28px 0;
-=======
   gap: var(--gap-9xl);
 
->>>>>>> Incoming
   text-align: left;
   font-size: var(--font-size-lg);
   color: var(--color-dimgray-100);
   font-family: var(--font-cabin);
 }
-<<<<<<< HEAD
-=======
 
 
->>>>>>> Incoming
 @media screen and (max-width: 950px) {
   .square-shape {
     display: none;
